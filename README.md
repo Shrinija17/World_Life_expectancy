@@ -102,8 +102,4 @@ ORDER BY GDP DESC;
 3️⃣ **Execute `data_exploration.sql`** to generate insights.  
 4️⃣ (Optional) **Use `visualization_dashboard.pbix`** to explore trends interactively.  
 
----
 
-This is now **GitHub-ready**, with **proper headings, sections, and code formatting**! 🎯 
-
-Would you like me to help set up a GitHub repository or guide you on best practices for sharing your portfolio projects? 😊🚀
